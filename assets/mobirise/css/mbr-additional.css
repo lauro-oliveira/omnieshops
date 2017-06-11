@@ -482,3 +482,14 @@ h6,
 #header3-3 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-8 .mbr-section-title,
+#header3-8 .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-9 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-9 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
