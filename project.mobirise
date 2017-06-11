@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7,
+    "uniqCompNum": 8,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -126,6 +126,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
@@ -148,12 +153,7 @@
           },
           "title": "Decentralized and cooperative &nbsp;<br>ecommerce Platform",
           "text": "Win ETH rewards on every sale made in the platform using criptocurrencys.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\">CROWDSALE DETAILS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>WHAT IS OMNI E-SHOPS</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\">CROWDSALE DETAILS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>WHAT IS OMNI E-SHOPS</a> "
         },
         {
           "_inherit": "msg-box5",
@@ -161,6 +161,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "msg-box4-2",
           "_params": {
             "imageSize": "70",
@@ -203,12 +208,7 @@
           },
           "title": "What is Omni E-shops",
           "text": "<p>Omni E-shops is a Online Store creator with cooperative tools.<br><br>Anyone can create a online store for free,  including ilimited storage, ilimited products and free domain hosting. <br><br><b>We make money helping this stores selling using ours cooperative tools.</b><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#header3-3\" data-toolbar=\"-mbrBtnMove\">WHY WE NEED FUNDS?</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#header3-3\" data-toolbar=\"-mbrBtnMove\">WHY WE NEED FUNDS?</a>"
         },
         {
           "_styles": {
@@ -288,7 +288,7 @@
           },
           "title2": "Upgrades",
           "subtitle2": "We need to add new things...",
-          "caption2": "We have a lot a news tools to add to the platform.<br>The platform remains simple, with an extense todo list.",
+          "caption2": "We have a lot a news tools to add to the platform.<br>The platform remains simple, with an extense to do list.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -304,7 +304,7 @@
           },
           "title3": "Hire &nbsp;staff",
           "subtitle3": "Omni E-shops was made by only two.",
-          "caption3": "We start developing in setember 2015, our first public release was in may 2017, and already won &nbsp;3000 news stores&nbsp;<br>(they use for free, and we need more time &nbsp;and more stores to start getting profits)&nbsp;",
+          "caption3": "We start developing in september 2015, our first public release was in may 2017, and already won &nbsp;3000 news stores&nbsp;<br>(they use for free, and we need more time and more stores to start getting profits)&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
