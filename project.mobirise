@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 10,
+    "uniqCompNum": 12,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -429,8 +429,8 @@
               "color": "black"
             }
           },
-          "title2": "Free for use",
-          "subtitle2": "With no hidden fees&nbsp;",
+          "title2": "Collaborative profits",
+          "subtitle2": "Free with no hidden fees&nbsp;",
           "caption2": "We only profit when a collaborative tool generate a sale.<br>&nbsp;Our tools are so good that until now 100% of the sellers enabled at the last one tool.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -445,9 +445,9 @@
               "color": "black"
             }
           },
-          "title3": "Social Impact",
-          "subtitle3": "Our white-label plataform already made a social impact",
-          "caption3": "Using our collaborative set of sales tools, local community can create E-stores. A special type of store where products from others stores give rewards per sales. And use they online address to promote an make sales.",
+          "title3": "Merchants &nbsp;pay for results not clicks",
+          "subtitle3": "Collaborative ADs",
+          "caption3": "Using our collaborative set of sales tools, merchants can create Ads and only pay if we make a sell. Views and Clicks are Free",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
